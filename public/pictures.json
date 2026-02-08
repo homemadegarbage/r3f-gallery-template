@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "position": [0, 5, -9.9],
+    "image": "/img1.jpg",
+    "title": "SHISEIGYO",
+    "description": "Reaction Wheel Attitude Control Module",
+    "video": "https://www.youtube.com/embed/lwDU1pwOmJ4",
+    "link": "https://homemadegarbage.com/tag/raod-reactionwheel"
+  },
+  {
+    "id": 2,
+    "position": [4, 5, -9.9],
+    "image": "/img2.jpg",
+    "title": "Bipedal robot",
+    "description": "This project shows how we build and program a budget bipedal robot that walks and moves on two legs.",
+    "video": "https://www.youtube.com/embed/03YfXTT4lm4",
+    "link": "https://homemadegarbage.com/tag/biped-robot"
+  }
+]
