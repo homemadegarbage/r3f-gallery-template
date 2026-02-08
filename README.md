@@ -66,20 +66,6 @@ src/data/pictures.js
 
 Add or modify items in the `pictures` array.
 
-Example:
-
-```js
-export const pictures = [
-  {
-    id: 1,
-    position: [0, 5, -9.9],
-    url: '/img1.jpg',
-    title: 'My Work',
-    description: 'Description here',
-  },
-];
-```
-
 ---
 
 ### Change Room Layout
@@ -106,8 +92,6 @@ MIT
 
 ## 📚 Credits
 
-## 📚 Credits
-
 Textures:
 
 - "Beige Wall 001" by Poly Haven (CC0)  
@@ -118,6 +102,6 @@ Textures:
 
 ---
 
-## 🙌 Author
+## 🏠️ Author
 
 Created by HomeMadeGarbage
