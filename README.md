@@ -1,5 +1,8 @@
 # r3f-gallery-template
 
+🔗 **Live Demo:**  
+https://expo.homemadegarbage.com/demo/r3f-gallery-template/
+
 Minimal virtual gallery template built with React Three Fiber.
 
 A simple starter project for building walkable 3D gallery spaces on the web
@@ -34,7 +37,7 @@ using React, Three.js, and @react-three/fiber.
 ### 1. Clone
 
 ```bash
-git clone https://gitlab.com/xexist/r3f-gallery-template.git
+git clone https://github.com/homemadegarbage/r3f-gallery-template.git
 cd r3f-gallery-template
 ```
 
